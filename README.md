@@ -2,7 +2,7 @@
 
 
 * **Interesting Insights:** The data shows striking contrasts in `Number of Repositories` and `Star Count`. While `Ktaranov` has the most number of public repositories `846`, `yandex` achieved the highest star count `28128` with just `137` repos. This suggests that focusing on fewer, high-quality projects can generate more community interest than maintaining many repositories.
-                  ![image](https://github.com/user-attachments/assets/1488452f-0c93-447a-8c48-7ce74098076e)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![image](https://github.com/user-attachments/assets/1488452f-0c93-447a-8c48-7ce74098076e)
 
 
 * **Recommendation:** The analysis suggests that developers should prioritize engaging with trending technologies, particularly in areas like `Artificial Intelligence (AI)` and `Machine Learning (ML)`. Additionally, maintaining comprehensive documentation and selecting projects that align closely with current market needs are recommended over the management of multiple repositories. This approach is expected to foster greater engagement on the platform.
