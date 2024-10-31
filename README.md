@@ -2,7 +2,6 @@
 
 
 * **Interesting Insights:** The data shows striking contrasts in Number of Repositories and Stargazers_Count. While LinuxSuRen has the most repositories 1,842, 521xueweihan achieved the highest star count 133,337 with just 145 repos. This suggests that focusing on fewer, high-quality projects can generate more community interest than maintaining many repositories.
-
 ![image](https://github.com/user-attachments/assets/1488452f-0c93-447a-8c48-7ce74098076e)
 
 
